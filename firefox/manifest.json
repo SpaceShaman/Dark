@@ -1,0 +1,42 @@
+{
+  "manifest_version": 2,
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "spaceshaman@tuta.io"
+      }
+  },
+  "version": "1.2",
+  "name": "SpaceShaman Dark",
+
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(11, 14, 20)",
+      "toolbar_text": "rgb(111, 116, 128)",
+      "frame": "rgb(11, 14, 20)",
+      "tab_background_text": "rgb(111, 116, 128)",
+      "toolbar_field": "rgb(11, 14, 20)",
+      "toolbar_field_text": "rgb(111, 116, 128)",
+      "tab_line": "rgb(46, 50, 62)",
+      "popup": "rgb(11, 14, 20)",
+      "popup_text": "rgb(111, 116, 128)",
+      "button_background_active": "rgb(46, 50, 62)",
+      "button_background_hover": "rgb(46, 50, 62)",
+      "frame_inactive": "rgb(11, 14, 20)",
+      "icons_attention": "rgb(46, 50, 62)",
+      "icons": "rgb(111, 116, 128)",
+      "ntp_background": "rgb(11, 14, 20)",
+      "ntp_text": "rgb(111, 116, 128)",
+      "sidebar_border": "rgb(11, 14, 20)",
+      "sidebar_highlight_text": "rgb(111, 116, 128)",
+      "sidebar_highlight": "rgb(46, 50, 62)",
+      "sidebar_text": "rgb(111, 116, 128)",
+      "sidebar": "rgb(11, 14, 20)",
+      "toolbar_field_border_focus": "rgb(46, 50, 62)",
+      "toolbar_field_highlight": "rgb(46, 50, 62)",
+      "toolbar_top_separator": "rgb(11, 14, 20)",
+      "tab_loading": "rgb(46, 50, 62)"
+    }
+  }
+}
