@@ -1,0 +1,36 @@
+{
+  "name": "spaceshaman-dark",
+  "displayName": "SpaceShaman Dark",
+  "publisher": "SpaceShaman",
+  "description": "Step into the dark side of the force and discover the secrets of the universe without the risk of eye damage! This theme is inspired by Ayu Dark Theme.",
+  "author": {
+    "name": "SpaceShaman"
+  },
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "img/icon.png",
+  "galleryBanner": {
+    "color": "#0b0e14",
+    "theme": "dark"
+  },
+  "license": "MIT License",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpaceShaman/Dark.git"
+  },
+  "homepage": "https://github.com/SpaceShaman/Dark",
+  "contributes": {
+    "themes": [
+      {
+        "label": "SpaceShaman Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SpaceShaman Dark-color-theme.json"
+      }
+    ]
+  }
+}

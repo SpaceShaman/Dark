@@ -8,7 +8,7 @@ For a better effect, I recommend installing the [Dark Reader](https://addons.moz
 ## List of add-ons for various programs
 
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spaceshaman-dark/)
-- [Thunderbird](https://addons.thunderbird.net/pl/thunderbird/addon/spaceshaman-dark/)
+- [Thunderbird](https://addons.mozilla.org/en-US/firefox/addon/spaceshaman-dark/)
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=SpaceShaman.spaceshaman-dark)
 
 ![Visual Studio Code](/img/code.png)
