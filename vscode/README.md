@@ -11,7 +11,7 @@ For a better effect, I recommend installing the [Dark Reader](https://addons.moz
 - [Thunderbird](https://addons.mozilla.org/en-US/firefox/addon/spaceshaman-dark/)
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=SpaceShaman.spaceshaman-dark)
 
-![Visual Studio Code](/img/code.png)
-![Thunderbird](/img/thunderbird.png)
-![Firefox](/img/firefox.png)
-![All](/img/all.png)
+![Visual Studio Code](https://raw.githubusercontent.com/SpaceShaman/Dark/main/img/code.png)
+![Thunderbird](https://raw.githubusercontent.com/SpaceShaman/Dark/main/img/thunderbird.png)
+![Firefox](https://raw.githubusercontent.com/SpaceShaman/Dark/main/img/firefox.png)
+![All](https://raw.githubusercontent.com/SpaceShaman/Dark/main/img/all.png)
