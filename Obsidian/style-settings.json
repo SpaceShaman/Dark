@@ -1,0 +1,17 @@
+{
+  "minimal-cards-style@@cards-border-width": "1px",
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-style@@base@@dark": "#0B0E14",
+  "minimal-style@@bg1@@dark": "#0B0E14",
+  "minimal-style@@bg2@@dark": "#0B0E14",
+  "minimal-style@@bg3@@dark": "#171B24",
+  "minimal-style@@ax1@@dark": "#808899",
+  "minimal-style@@ax2@@dark": "#E6B450",
+  "minimal-style@@ax3@@dark": "#171B24",
+  "minimal-style@@ui1@@dark": "#171B24",
+  "minimal-style@@ui2@@dark": "#171B24",
+  "minimal-style@@ui3@@dark": "#00000000",
+  "minimal-style@@sp1@@dark": "#E5E5E5",
+  "minimal-style@@active-line-on": false,
+  "minimal-style@@active-line-bg@@dark": "#FE000000"
+}

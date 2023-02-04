@@ -3,11 +3,10 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "spaceshaman@tuta.io"
-      }
+    }
   },
   "version": "1.2",
   "name": "SpaceShaman Dark",
-
   "theme": {
     "images": {},
     "properties": {},
